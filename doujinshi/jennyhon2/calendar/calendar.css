@@ -1,0 +1,98 @@
+@charset "Shift_JIS";
+
+*{
+	padding: 0;
+	margin: 0;
+	border: none;
+}
+
+body{
+	color: #222222;
+	background-color: #ffffff;
+	background: url(back.jpg);
+	font-size: 1.0em;
+	font-family: sans-serif, Arial, Helvetica, Osaka, "‚l‚r ‚oƒSƒVƒbƒN";
+	text-align: left;
+	word-break: break-all;
+	word-wrap: break-word;
+}
+
+a:link{
+	color: #003399;
+}
+
+a:visited{
+	color: #660033;
+}
+
+#header{
+	width: 100%;
+	background: #ffffff;
+}
+
+#main{
+	background: #ffffff;
+	width: 80%;
+}
+
+#photo h3{
+	text-align: center;
+	padding: 0em 0em 1em 0em;
+}
+h2{
+	color: #ffffff;
+	background: #32959a;
+	margin-left: 1.5em;
+	margin-right: 1.5em;
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+}
+
+h3{
+	color: #32959a;
+	text-align: left;
+	padding: 1em 0em 0em 2.5em;
+}
+
+p{
+	text-align: left;
+	padding: 0em 3em 1em 3em;
+	line-height: 1.5em;
+}
+
+#yousi p{
+	padding-top: 1em;
+}
+
+ol{
+	text-align: left;
+	padding-right: 3em;
+	padding-bottom: 1em;
+	padding-left: 7em;
+}
+
+li{
+	padding-top: 0.3em;
+}
+
+table{
+	width: 80%;
+	border-right: 1px solid #32959a;
+	border-bottom: 1px solid #32959a;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+th{
+	border-top: 1px solid #32959a;
+	border-left: 1px solid #32959a;
+	color: #32959a;
+}
+
+td{
+	border-top: 1px solid #32959a;
+	border-left: 1px solid #32959a;
+	text-align: center;
+	padding: 5px 0px;
+}
+
