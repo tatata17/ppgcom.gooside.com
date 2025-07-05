@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://tatata17.github.io/ppgcom.gooside.com/sitemap.xml
